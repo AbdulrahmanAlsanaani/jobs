@@ -52,4 +52,64 @@ a{
 }
 
 
+/* start protifail style */
+
+.up-prog {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.date {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column-reverse;
+    color: black;
+}
+
+.date h4 {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: end;
+}
+
+.val-up-lin {
+    margin: 0 20px;
+    width: 5px;
+    height: 400px;
+    background-color: #0d6efd99;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+}
+
+.dot {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 5px #0d6efd99;
+    height: 5px;
+    width: 5px;
+    border-radius: 50px;
+    margin: 15px 0;
+}
+
+.event {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column-reverse;
+    color: black;
+}
+
+.event h3 {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+/* end protifail style */
+
+
 
