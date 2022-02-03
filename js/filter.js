@@ -42,7 +42,7 @@ $(document).ready(function () {
 
     $("#search-ar").on('input', function () {
         var word = $("#search-ar").val().toLowerCase();
-        var wordEn = $("#filter-type-ar").val().toLowerCase();
+        var wordEn = $("#filter-type-en").val().toLowerCase();
         var wordAR = $("#filter-type-ar").val().toLowerCase();
 
 
